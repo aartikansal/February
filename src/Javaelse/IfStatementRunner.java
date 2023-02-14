@@ -2,6 +2,7 @@ package Javaelse;
 
 public class IfStatementRunner {
     public static void main(String [] args){
+        // i is 24, 25, i is neither 24 or 25
 int i =24;
 if (i==25) {
     System.out.println("i=25");
